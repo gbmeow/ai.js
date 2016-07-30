@@ -1,0 +1,28 @@
+{
+  "name": "ai.js",
+  "version": "1.0.0",
+  "description": "Collection of Machine Learning Algorithms for JS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./k-nearest-neighbor/test.js --debug-brk"
+  },
+  "dependencies": {
+    "assert": "^1.3.0",
+    "chai": "^3.4.1",
+    "lodash": "^4.14.1",
+    "repeat-string": "^1.5.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgebatalinski/ai.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgebatalinski/ai.js/issues"
+  },
+  "homepage": "https://github.com/georgebatalinski/ai.js#readme"
+}
